@@ -5,6 +5,7 @@
 
 # Covid19_TimeSeries_Prediction
 
+
 ## Project Description
 
 This project involves creating a deep learning model using Long Short-Term Memory (LSTM) neural networks to predict new COVID-19 cases in Malaysia based on the past 30 days of case numbers. The LSTM model is chosen due to its ability to remember past information, which is crucial in time-series prediction tasks like this.
@@ -45,7 +46,9 @@ The model will be trained on historical COVID-19 case data, and its performance 
 ### 11. Performance Evaluation
 > Last but not least, we will calulcate the MAPE for both model cases
 
-
+## Acknowledgement
+We extend our deepest gratitude to the Ministry Of Health (MOH) for their invaluable contribution of COVID-19 case data, which served as the foundation for this project. We commend their commitment to enhancing global health and their generosity in making their data accessible to the public. For more information, please visit their GitHub repository.
+https://github.com/MoH-Malaysia/covid19-public
 
 
 
